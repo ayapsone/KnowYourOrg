@@ -42,3 +42,10 @@ Examples:
 4. The Scale setting sections provide how much elasticity is configured.
 5. The security setting sections provide how to secure your clusters.
 6. The Network setting sections provide how network policies are maintained.
+
+# Screenshots
+![Cluster Details](./cluster-details.png)
+
+![Node Details](./node-details.png)
+
+![version Details](./version-details.png)
