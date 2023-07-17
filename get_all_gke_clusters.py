@@ -352,7 +352,7 @@ def writeToBQ():
 
 if __name__ == "__main__":
 
-    #getProjectsAndGkeCluster();
-    #format_gke_output()
+    getProjectsAndGkeCluster();
+    format_gke_output()
     writeToBQ()
     # createBQTable();
